@@ -1,42 +1,48 @@
-# Hola, soy Alex Bryan 👋
+# Hi, I'm Bryan Riaño 👋
 
-Soy desarrollador enfocado en construir productos web y soluciones de negocio con arquitectura limpia, buen DX y foco en impacto real.
+I build digital products with a strong focus on clean architecture, business impact, and maintainable developer experience.
 
-## 🚀 Sobre mí
+## About me
 
-- 💼 Trabajo en proyectos de gestión comercial y automatización.
-- 🧠 Interesado en backend robusto, frontend mantenible y agentes IA.
-- 🔐 Experiencia integrando autenticación, APIs seguras y flujos con Firebase/JWT.
-- 📈 Me gusta convertir procesos manuales en herramientas escalables.
+- Full-stack developer focused on web platforms, internal tools, and automation.
+- Strong interest in backend reliability, scalable frontend architecture, and applied AI.
+- Experience shipping secure integrations with Firebase/JWT, REST APIs, and cloud services.
+- I enjoy turning manual business processes into robust, productized workflows.
 
-## 🛠️ Stack principal
+## Core stack
 
-- **Frontend:** Angular, TypeScript, RxJS
+- **Frontend:** Angular, TypeScript, RxJS, Next.js
 - **Backend:** Node.js, Express, REST APIs
-- **Base de datos:** MySQL, Prisma
-- **Cloud/Servicios:** Firebase, Google Cloud
-- **IA/Agentic:** Genkit, Gemini
-- **Buenas prácticas:** Clean Architecture, SOLID, ESLint, Prettier
+- **Database:** MySQL, Prisma, Supabase
+- **Cloud & Services:** Firebase, Google Cloud
+- **AI & Agentic:** Genkit, Gemini
+- **Engineering Practices:** Clean Architecture, SOLID, ESLint, Prettier
 
-## 📌 En qué estoy ahora
+## Selected Open-Source Projects
 
-- Mejorando productos internos de **gestión comercial**.
-- Integrando capacidades de **IA aplicada** en flujos de negocio.
-- Fortaleciendo calidad técnica: linting, formato, convenciones y documentación.
+- [barberit-web](https://github.com/alxbryann/barberit-web) - Web product experience for booking/service workflows.
+- [barberit-mobile](https://github.com/alxbryann/barberit-mobile) - Mobile companion for the Barberit ecosystem.
+- [flood-alert-bogota](https://github.com/alxbryann/flood-alert-bogota) - Public-facing alert and data-oriented project.
+- [habit-tracker](https://github.com/alxbryann/habit-tracker) - Habit tracking app built with modern web stack.
+- [creditosCorporativosApi](https://github.com/alxbryann/creditosCorporativosApi) + [creditosCorporativosFront](https://github.com/alxbryann/creditosCorporativosFront) - API + frontend split architecture.
 
-## 🤝 Colaboración
+## Selected Closed-Source Projects
 
-Estoy abierto a colaborar en proyectos de:
+- **Business-Dashboard-Life2food** - Internal business dashboard for merchants and operations.
+- **backendLife2Food / life2food-agent / ownersLife2Food** - Private backend + AI agent + owner platform.
+- **CoinJoy suite** (`backendCoinJoy`, `frontendCoinJoy`, `CoinJoyMobile`) - End-to-end private product ecosystem.
+- **life2food-landing-page / rumer / rumer-landing-page** - Product and go-to-market private initiatives.
 
-- Sistemas internos empresariales
-- Dashboards y herramientas de operación
-- Automatización de procesos
-- Integraciones backend + IA
+## Current focus
 
-## 📫 Contacto
+- Building production-grade tools for business operations and decision-making.
+- Integrating AI features into real workflows (not just demos).
+- Raising engineering quality through conventions, documentation, and testable architecture.
+
+## Let's connect
 
 - GitHub: [@alxbryann](https://github.com/alxbryann)
 
 ---
 
-> "Construir software útil, claro y sostenible."
+> Build useful software. Keep it clean. Ship consistently.
