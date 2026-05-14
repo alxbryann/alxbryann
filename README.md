@@ -1,68 +1,79 @@
-# Hi, I'm Bryan Riaño 👋
+# Bryan Alexander Riaño Romero
 
-**CEO & Co-founder of Life2Food** — building a marketplace that helps people save money while reducing food waste, and leading the product, engineering, and go-to-market work behind it.
+Bogotá, D.C., Colombia · [alxbryann.cloud](https://alxbryann.cloud)
+
+> *Apasionado por aprender, mejorar y crear soluciones bien construidas. Me motiva comprender a fondo cómo funcionan las cosas para escribir código claro, ordenado y confiable.*
 
 <p align="center">
   <img src="./banner.png" alt="Life2Food banner" width="100%" />
 </p>
 
-## What I'm building at Life2Food
+## Sobre mí
 
-Life2Food is a Colombian platform connecting consumers with stores, restaurants, and farms selling quality food near its expiration date at reduced prices.
+Soy **Ingeniero de Sistemas** (Universidad Piloto de Colombia, 2021–2026) y **desarrollador de software** en Bogotá. Hoy trabajo como **Desarrollador Junior** en el **Banco de Bogotá** (Ingeniería y Tecnología, nivel Specialist), continuando un camino que empezó como **pasante** en el mismo banco (jul 2025 – feb 2026) y que reconoció con **Mención de Honor** del programa ProEvoluciona.
 
-As CEO and co-founder, I work across strategy, product direction, operations, partnerships, and hands-on engineering. I care about turning a real market problem into a reliable product ecosystem: mobile commerce, merchant tools, owner dashboards, backend services, payments, and AI-assisted support.
+En paralelo soy **CEO y cofundador de Life2Food**: un marketplace colombiano que conecta a las personas con tiendas, restaurantes y fincas que ofrecen alimentos de calidad cerca de su fecha de consumo preferente a mejores precios, reduciendo desperdicio.
 
-## Life2Food product ecosystem
+Me guían la **constancia, la curiosidad y el compromiso**. No me conformo con que el código “funcione”: me importa que sea legible, confiable y bien construido.
 
-- **Consumer mobile app** (`Life2Food-movil`) - React Native / Expo app for product discovery, cart, orders, profile, and pickup workflows.
-- **Backend platform** (`backendLife2Food`) - Spring Boot API with MySQL, Firebase Admin, AWS S3, email services, validation, security, and OpenAPI documentation.
-- **Business dashboard** (`Business-Dashboard-Life2food`) - Angular merchant dashboard with Firebase Auth for store operations and business visibility.
-- **Owner platform** (`ownersLife2Food`) - Angular owner-facing product for managing and understanding the business from an operator perspective.
-- **Lifo AI agent** (`life2food-agent`) - TypeScript/Express AI microservice for chat, merchant chat, support chat, insights, and TTS.
-- **Growth surface** (`life2food-landing-page`) - Landing page and brand/product communication for acquisition and market validation.
+### Formación y certificaciones (resumen)
 
-## Agents & integrations
+| Institución | Título / diploma | Período |
+|-------------|------------------|---------|
+| Universidad Piloto de Colombia | Ingeniería de Sistemas | 2021 – 2026 |
+| IBM SkillsBuild | AI Fundamentals | 2024 |
+| Universidad de La Sabana | Creación de videojuegos en C# | 2024 |
+| Oracle | Oracle Database / SQL | 2024 |
+| Anthropic | Claude Code in Action | Ene 2026 |
 
-- Built **Lifo**, Life2Food's AI assistant, with tool-driven flows for product search, store search, cart actions, order status, product roulette, and support.
-- Integrated multiple AI providers through the AI SDK: **OpenAI, Anthropic, Google, and DeepSeek**.
-- Designed AI endpoints with CORS controls, rate limiting, dashboard/mobile origins, and clear API boundaries.
-- Connected core platform services including **Firebase Auth/Admin**, **MercadoPago payment flows**, **AWS S3**, transactional email, REST APIs, and MySQL persistence.
+## Life2Food — qué estamos construyendo
 
-## About me
+Como CEO y cofundador participo en estrategia, dirección de producto, operaciones, alianzas e ingeniería hands-on. Me interesa convertir un problema de mercado real en un ecosistema de producto fiable: comercio móvil, herramientas para comercios, paneles para propietarios, backend, pagos y soporte asistido por IA.
 
-- CEO & co-founder focused on product strategy, execution, and technical leadership.
-- Full-stack developer building web platforms, mobile apps, internal tools, AI agents, and automation.
-- Strong interest in backend reliability, scalable frontend architecture, applied AI, and business operations.
-- I enjoy turning manual business processes into robust, productized workflows.
+### Ecosistema de repos
 
-## Core stack
+- **App móvil consumidor** (`Life2Food-movil`) — React Native / Expo: descubrimiento, carrito, pedidos, perfil y flujos de recogida.
+- **Backend** (`backendLife2Food`) — Spring Boot, MySQL, Firebase Admin, AWS S3, correo, seguridad y OpenAPI.
+- **Dashboard comercios** (`Business-Dashboard-Life2food`) — Angular + Firebase Auth.
+- **Plataforma owners** (`ownersLife2Food`) — Angular para operación del negocio.
+- **Agente Lifo** (`life2food-agent`) — TypeScript/Express: chat, insights y TTS.
+- **Landing** (`life2food-landing-page`) — superficie de crecimiento y marca.
 
-- **Frontend:** Angular, React Native, Expo, TypeScript, Next.js
-- **Backend:** Java, Spring Boot, Node.js, Express, REST APIs
-- **Database:** MySQL, Prisma, Supabase
-- **Cloud & Services:** Firebase, AWS S3, Google Cloud
-- **AI & Agentic:** AI SDK, OpenAI, Anthropic, Google, DeepSeek, Genkit, Gemini
-- **Engineering Practices:** Clean Architecture, SOLID, OpenAPI, ESLint, Prettier
+### Agentes e integraciones
 
-## Selected Open-Source Projects
+- **Lifo**: flujos con herramientas para búsqueda de productos/tiendas, carrito, estado de pedido, ruleta y soporte.
+- Proveedores de IA vía AI SDK: **OpenAI, Anthropic, Google y DeepSeek**.
+- **Firebase Auth/Admin**, **MercadoPago**, **AWS S3**, email transaccional y APIs REST con límites y CORS claros.
 
-- [barberit-web](https://github.com/alxbryann/barberit-web) - Web product experience for booking/service workflows.
-- [barberit-mobile](https://github.com/alxbryann/barberit-mobile) - Mobile companion for the Barberit ecosystem.
-- [flood-alert-bogota](https://github.com/alxbryann/flood-alert-bogota) - Public-facing alert and data-oriented project.
-- [habit-tracker](https://github.com/alxbryann/habit-tracker) - Habit tracking app built with modern web stack.
-- [creditosCorporativosApi](https://github.com/alxbryann/creditosCorporativosApi) + [creditosCorporativosFront](https://github.com/alxbryann/creditosCorporativosFront) - API + frontend split architecture.
+## Stack técnico
 
-## Current focus
+- **Lenguajes:** Java · TypeScript · JavaScript · Python · C# · SQL  
+- **Frontend:** React · Next.js · Angular · Astro · Tailwind CSS  
+- **Backend y móvil:** Java (Spring) · React Native / Expo · Firebase  
+- **Datos y automatización:** SQL / Oracle DB · Supabase · n8n · Firestore  
+- **Herramientas e IA:** Claude Code · Cursor · Git/GitHub · Vercel  
+- **Prácticas:** arquitectura limpia, SOLID, OpenAPI, ESLint, Prettier
 
-- Scaling Life2Food from product vision into a reliable operating business.
-- Building AI features that support real users, merchants, and owners.
-- Improving the commerce, payments, dashboard, and operations layers of the platform.
-- Raising engineering quality through conventions, documentation, and testable architecture.
+## Otros proyectos que me representan
 
-## Let's connect
+- **[Mockit](https://github.com/alxbryann/mockit)** — mockups 3D de dispositivos a partir de screenshots (API + viewer Three.js).
+- **BudgetTracker** — escritorio Java para finanzas personales, reportes y SQL.
+- **CoinJoy** — finanzas/crypto: frontend TypeScript, backend Java, móvil.
+- **Trimmerit / Barberit** — barberías: landing + móvil (`trimmerit-landing`, `barberit-web`, `barberit-mobile`).
+- **[habit-tracker](https://github.com/alxbryann/habit-tracker)** — hábitos con Next.js y Supabase.
+- **[flood-alert-bogota](https://github.com/alxbryann/flood-alert-bogota)** — civic tech para alertas de inundación en Bogotá.
+- **Portfolio** — sitio con Astro.
 
-- GitHub: [@alxbryann](https://github.com/alxbryann)
+## Intereses
+
+Agentes de IA aplicados a productividad e ingeniería, automatización de flujos (n8n), arquitectura de software limpia, finanzas personales + tecnología y productos pensados para **Latinoamérica**.
+
+## Conectemos
+
+- **Web:** [alxbryann.cloud](https://alxbryann.cloud)  
+- **GitHub:** [@alxbryann](https://github.com/alxbryann)  
+- **LinkedIn:** [bryan-alexander-riaño-romero](https://linkedin.com/in/bryan-alexander-riaño-romero-964b02301)
 
 ---
 
-> Build useful software. Keep it clean. Ship consistently.
+> Software útil. Código claro. Entregas constantes.
