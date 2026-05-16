@@ -1,6 +1,6 @@
 # Bryan Alexander Riaño Romero
 
-I'm a **systems engineer** and **software developer** based in **Bogotá, Colombia**. I build software at **Banco de Bogotá** as a **Junior Developer** in Engineering & Technology—the same place where I interned from **July 2025 to February 2026** and received an **Honorable Mention** in **ProEvoluciona**. I like code that stays **easy to read and reason about**, not just code that passes the first happy path.
+I'm a **systems engineer** and **software developer** based in **Bogotá, Colombia**. I build software at **Banco de Bogotá** as a **Developer** in Engineering & Technology—the same place where I interned from **July 2025 to February 2026** and received an **Honorable Mention** in **ProEvoluciona**. I like code that stays **easy to read and reason about**, not just code that passes the first happy path.
 
 **Stack:** Java · TypeScript · JavaScript · Python · C# · SQL · React · Next.js · Angular · Astro · Tailwind · Spring · React Native / Expo · Firebase · Oracle/SQL · Supabase · n8n · Git · Vercel · AI tooling (Claude Code, Cursor).
 
