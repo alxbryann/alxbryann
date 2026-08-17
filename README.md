@@ -1,26 +1,49 @@
 # Bryan Alexander Riaño Romero
 
-I'm a **systems engineer** and **software developer** based in **Bogotá, Colombia**. I build software at **Banco de Bogotá** as a **Developer** in Engineering & Technology—the same place where I interned from **July 2025 to February 2026** and received an **Honorable Mention** in **ProEvoluciona**. I like code that stays **easy to read and reason about**, not just code that passes the first happy path.
+**Systems Engineer** building **AI agents in production** · Bogotá, Colombia 🇨🇴
 
-**Stack:** Java · TypeScript · JavaScript · Python · C# · SQL · React · Next.js · Angular · Astro · Tailwind · Spring · React Native / Expo · Firebase · Oracle/SQL · Supabase · n8n · Git · Vercel · AI tooling (Claude Code, Cursor).
+I lead the technical side of production AI agents at **Banco de Bogotá** (Engineering & Technology) and build AI-native products on the side. I care about agents that actually ship: reliable orchestration, measurable behavior, and cost-aware design — not just demos.
 
-## Built projects
+**Stack:** TypeScript · Java · Python · SQL · React / Next.js · Astro · Hono / Bun · Firebase · Supabase · BigQuery · AWS · Claude API · MCP servers · n8n · multi-agent orchestration
 
-- **Life2Food** — CEO & co-founder: Colombian marketplace for surplus-quality food. Full stack: Spring Boot, React Native/Expo, Angular dashboards, TypeScript AI agent **Lifo** (`life2food-agent`), Firebase, MercadoPago, AWS S3. Repos: [`backendLife2Food`](https://github.com/alxbryann/backendLife2Food) · [`Life2Food-movil`](https://github.com/alxbryann/Life2Food-movil) · [`Business-Dashboard-Life2food`](https://github.com/alxbryann/Business-Dashboard-Life2food) · [`ownersLife2Food`](https://github.com/alxbryann/ownersLife2Food) · [`life2food-agent`](https://github.com/alxbryann/life2food-agent) · [`life2food-landing-page`](https://github.com/alxbryann/life2food-landing-page).
-- **Mockit** — 3D device mockups from screenshots: [`mockit`](https://github.com/alxbryann/mockit) · [`mockit-api`](https://github.com/alxbryann/mockit-api).
-- **BudgetTracker** — Java desktop personal finance and reporting: [`budgetTracker`](https://github.com/alxbryann/budgetTracker) · [`budgettrackerWeb`](https://github.com/alxbryann/budgettrackerWeb).
-- **CoinJoy** — Finances/crypto: [`frontendCoinJoy`](https://github.com/alxbryann/frontendCoinJoy) · [`backendCoinJoy`](https://github.com/alxbryann/backendCoinJoy) · [`CoinJoyMobile`](https://github.com/alxbryann/CoinJoyMobile).
-- **Trimmerit / Barberit** — Barbershop products: [`trimmerit-landing`](https://github.com/alxbryann/trimmerit-landing) · [`trimmerit-mobile`](https://github.com/alxbryann/trimmerit-mobile) · [`barberit-web`](https://github.com/alxbryann/barberit-web) · [`barberit`](https://github.com/alxbryann/barberit).
-- **habit-tracker** — Habits with Next.js and Supabase: [`habit-tracker`](https://github.com/alxbryann/habit-tracker).
-- **flood-alert-bogota** — Civic tech for flood alerts in Bogotá: [`flood-alert-bogota`](https://github.com/alxbryann/flood-alert-bogota).
-- **Portfolio** — Personal site (Astro): [`portfolio-astro`](https://github.com/alxbryann/portfolio-astro).
+## 🔭 What I'm building now
 
-## Connect
+- **[pemie.ai](https://pemie.ai)** — AI-native project management. MCP server so autonomous agents can create, update, and close out boards by themselves. Production on Vercel, i18n ES/EN.
+- **Hermes** — my personal AI second-brain agent: multi-agent architecture, memory system, and a behavioral profile built from onboarding interviews. I learn agent systems from the inside by living in one.
+- **[OpenMockup](https://openmockup.ai)** — open-source 3D device mockups from screenshots. Ships as an MCP server so any AI agent can generate mockups on demand.
+- **hermie-vault** — my Obsidian knowledge vault, synced and analyzed by Hermes daily.
+- **domu** — automated voice-agent QA: structured scoring for compliance, tone, and accuracy.
 
-- **Website:** [alxbryann.cloud](https://alxbryann.cloud)  
-- **GitHub:** [@alxbryann](https://github.com/alxbryann)  
-- **LinkedIn:** [profile](https://linkedin.com/in/bryan-alexander-riaño-romero-964b02301)
+## 🏆 Recent highlights
+
+- 🥇 **GTM Hackathon LATAM — Winner** (2026)
+- 🥈 **Banco de Bogotá Hackathon — 2nd place**
+- **Makers Fellowship** — accepted (sub-1% acceptance rate)
+- **ProEvoluciona Honorable Mention** — Banco de Bogotá
+
+## 🛠️ Select projects
+
+| Project | What it is |
+|---|---|
+| [pemie.ai](https://github.com/alxbryann/pemie.ai) | AI-native PM + MCP server for agents |
+| [openmockup.ai](https://github.com/alxbryann/openmockup.ai) | 3D device mockups via MCP |
+| [mcp-openmockup](https://github.com/alxbryann/mcp-openmockup) | MCP server for OpenMockup |
+| [openmeet](https://github.com/alxbryann/openmeet) | Meeting transcription + AI summaries, 100% in-browser |
+| [flood-alert-bogota](https://github.com/alxbryann/flood-alert-bogota) | Civic tech for flood alerts in Bogotá |
+| [portfolio-astro](https://github.com/alxbryann/portfolio-astro) | Personal site (Astro) — [alxbryann.cloud](https://alxbryann.cloud) |
+
+**Past:** co-founded **Life2Food** — a food-waste marketplace for Bogotá (archived).
+
+## 📊
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=alxbryann&show_icons=true&theme=radical)
+
+## 📫 Connect
+
+- **Website:** [alxbryann.cloud](https://alxbryann.cloud)
+- **GitHub:** [@alxbryann](https://github.com/alxbryann)
+- **LinkedIn:** [Bryan Alexander Riaño Romero](https://linkedin.com/in/bryan-alexander-riaño-romero)
 
 ---
 
-*Useful software. Clean code. Steady shipping.*
+*Agents that ship. Systems that hold. Steady building.*
