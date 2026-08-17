@@ -12,7 +12,6 @@ I lead the technical side of a production AI agent at **Banco de Bogotá** (Engi
 - **Hermes** — my personal AI second-brain agent: multi-agent architecture, memory system, and a behavioral profile built from onboarding interviews. I learn agent systems from the inside by living in one.
 - **[OpenMockup](https://openmockup.ai)** — open-source 3D device mockups from screenshots. Ships as an MCP server so any AI agent can generate mockups on demand.
 - **hermie-vault** — my Obsidian knowledge vault, synced and analyzed by Hermes daily.
-- **domu** — automated voice-agent QA: structured scoring for compliance, tone, and accuracy.
 
 ## 🏆 Recent highlights
 
