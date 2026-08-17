@@ -2,7 +2,7 @@
 
 **Systems Engineer** building **AI agents in production** · Bogotá, Colombia 🇨🇴
 
-I lead the technical side of production AI agents at **Banco de Bogotá** (Engineering & Technology) and build AI-native products on the side. I care about agents that actually ship: reliable orchestration, measurable behavior, and cost-aware design — not just demos.
+I lead the technical side of a production AI agent at **Banco de Bogotá** (Engineering & Technology) and build AI-native products on the side. I care about agents that actually ship: reliable orchestration, measurable behavior, and cost-aware design — not just demos.
 
 **Stack:** TypeScript · Java · Python · SQL · React / Next.js · Astro · Hono / Bun · Firebase · Supabase · BigQuery · AWS · Claude API · MCP servers · n8n · multi-agent orchestration
 
